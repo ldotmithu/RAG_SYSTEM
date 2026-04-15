@@ -142,7 +142,7 @@ CHUNK_OVERLAP=100       # Optional
 
 ### Backend Settings (`src/constants.py`)
 ```python
-GROQ_MODEL_NAME = "mixtral-8x7b-32768"  # Available: mixtral, llama2, gemma
+GROQ_MODEL_NAME = "openai/gpt-oss-20b"  # Available: mixtral, llama2, gemma
 EMBEDDING_DIMENSION = 768
 ```
 
