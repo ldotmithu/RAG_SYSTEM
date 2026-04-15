@@ -15,6 +15,12 @@ A production-grade **Retrieval-Augmented Generation (RAG)** system built with mo
 
 ---
 
+## 📸  Demo:- 
+
+![image](https://github.com/ldotmithu/Dataset/blob/main/rag_image.png)
+
+---
+
 ## ✨ Features
 
 - 📚 **Document Management** - Upload and index PDF documents with automatic chunking
